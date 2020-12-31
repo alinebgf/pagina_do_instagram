@@ -132,7 +132,7 @@ body{
     align-items: center;
     background-size: 100% 100%;
     
-    background-image: url(C:/workspace/HTML5/instagram/imagens/apps.png)
+    background-image: url("imagens/apps.png")
     
 }
 /* logos de app separados
